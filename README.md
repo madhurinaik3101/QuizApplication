@@ -1,6 +1,6 @@
 # Dynamic-Quiz-Platform-using-JavaScript
 
-A simple Quiz Application built using **JavaScript** for backend logic, **HTML** for structure, and **CSS** for styling the frontend.
+A Dynamic Quiz Platform built using **JavaScript** for backend logic, **HTML** for structure, and **CSS** for styling the frontend.
 
 ---
 
@@ -14,7 +14,7 @@ A simple Quiz Application built using **JavaScript** for backend logic, **HTML**
 
 ## Overview
 
-QuizApplication is a lightweight and interactive quiz platform that allows users to test their knowledge through multiple-choice questions. The questions and answers are managed via JavaScript logic, while the user interface is structured with HTML and styled with CSS to provide an engaging user experience.
+Dynamic Quiz Platform is a lightweight and interactive quiz platform that allows users to test their knowledge through multiple-choice questions. The questions and answers are managed via JavaScript logic, while the user interface is structured with HTML and styled with CSS to provide an engaging user experience.
 
 ---
 
