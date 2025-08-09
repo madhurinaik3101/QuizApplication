@@ -1,4 +1,4 @@
-# QuizApplication
+# Dynamic-Quiz-Platform-using-JavaScript
 
 A simple Quiz Application built using **JavaScript** for backend logic, **HTML** for structure, and **CSS** for styling the frontend.
 
